@@ -123,11 +123,3 @@ The project uses the following key dependencies:
    - Make sure your Flutter SDK is up to date
 
 
-This project is for educational purposes. Make sure to follow NewsAPI's terms of service when using their API.
-
-## Notes
-
-- The current implementation doesn't include offline support
-- API key should be stored securely in production (consider using environment variables or secure storage)
-- Error handling could be enhanced for better user experience
-- Consider implementing proper pagination for large news datasets
