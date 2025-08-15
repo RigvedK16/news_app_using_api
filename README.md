@@ -71,8 +71,6 @@ flutter run
 - Select a device or emulator
 - Press F5 (VS Code) or click the Run button
 
-## Project Structure
-
 ## Dependencies
 
 The project uses the following key dependencies:
